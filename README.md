@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é vinicius, tenho 17 anos e estou cursando o ensino médio técnico na Escola SESI<br>Meu principal objetivo é o front-end, mas eu sempre estou aprendendo linguagens novas (front e back end)
+Meu nome é vinicius, tenho 18 anos e estou cursando Ciencia da Computação na unisul Florianópolis<br>Meu principal objetivo é o front-end, mas eu sempre estou aprendendo linguagens novas (front e back end)
 
 
 ## 🌐 Socials:
