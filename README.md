@@ -1,5 +1,5 @@
 # 💫 About Me:
-Meu nome é vinicius, tenho 18 anos e estou cursando Ciencia da Computação na unisul Florianópolis<br>Meu principal objetivo é o front-end, mas eu sempre estou aprendendo linguagens novas (front e back end)
+Meu nome é vinicius, tenho 18 anos e estou cursando Ciencia da Computação na unisul Florianópolis<br>Meu principal objetivo é o Back end, mas eu sempre estou aprendendo linguagens novas.
 
 
 ## 🌐 Socials:
