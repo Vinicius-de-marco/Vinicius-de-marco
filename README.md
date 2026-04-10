@@ -64,17 +64,6 @@ const dev = {
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-de-marco&repo=antidistracao&theme=tokyonight&hide_border=true)]([https://github.com/Vinicius-de-marco/antidistracao])
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-de-marco&repo=Gerenciatarefa&theme=tokyonight&hide_border=true)]([https://github.com/Vinicius-de-marco/Gerenciatarefa])
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 <div align="center">
