@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+[Vinicius]+%F0%9F%91%8B;Full+Stack+Developer;Building+things+that+matter.)](https://git.io/typing-svg)
 
 <!-- BADGES DE VISITAS E SEGUIDORES -->
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USERNAME&color=6366f1&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat-square&color=6366f1&label=Followers)](https://github.com/Vinicius-de-Marco)
+![Profile Views](https://komarev.com/ghpvc/?username=Vinicius-de-marco&color=6366f1&style=flat-square&label=Profile+Views)
+[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat-square&color=6366f1&label=Followers)](https://github.com/Vinicius-de-marco)
 
 </div>
 
