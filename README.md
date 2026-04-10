@@ -68,8 +68,8 @@ const dev = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO_1)
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)](https://github.com/SEU_USERNAME/NOME_DO_REPO_2)
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true)]([https://github.com/SEU_USERNAME/NOME_DO_REPO_1](https://github.com/Vinicius-de-marco/antidistracao))
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)]([https://github.com/SEU_USERNAME/NOME_DO_REPO_2](https://github.com/Vinicius-de-marco/Gerenciatarefa))
 
 </div>
 
