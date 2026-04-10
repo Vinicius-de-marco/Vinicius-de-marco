@@ -5,7 +5,7 @@
 
 <!-- BADGES DE VISITAS E SEGUIDORES -->
 ![Profile Views](https://komarev.com/ghpvc/?username=Vinicius-de-marco&color=6366f1&style=flat-square&label=Profile+Views)
-[![GitHub followers](https://img.shields.io/github/followers/SEU_USERNAME?style=flat-square&color=6366f1&label=Followers)](https://github.com/Vinicius-de-marco)
+[![GitHub followers](https://img.shields.io/github/followers/Vinicius-de-marco?style=flat-square&color=6366f1&label=Followers)](https://github.com/Vinicius-de-marco)
 
 </div>
 
@@ -51,14 +51,14 @@ const dev = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vinicius-de-marco&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinicius-de-marco&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Vinicius-de-marco&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -68,8 +68,8 @@ const dev = {
 
 <div align="center">
 
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_1&theme=tokyonight&hide_border=true)]([https://github.com/SEU_USERNAME/NOME_DO_REPO_1](https://github.com/Vinicius-de-marco/antidistracao))
-[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=SEU_USERNAME&repo=NOME_DO_REPO_2&theme=tokyonight&hide_border=true)]([https://github.com/SEU_USERNAME/NOME_DO_REPO_2](https://github.com/Vinicius-de-marco/Gerenciatarefa))
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-de-marco&repo=antidistracao&theme=tokyonight&hide_border=true)]([https://github.com/Vinicius-de-marco/antidistracao])
+[![Project Card](https://github-readme-stats.vercel.app/api/pin/?username=Vinicius-de-marco&repo=Gerenciatarefa&theme=tokyonight&hide_border=true)]([https://github.com/Vinicius-de-marco/Gerenciatarefa])
 
 </div>
 
